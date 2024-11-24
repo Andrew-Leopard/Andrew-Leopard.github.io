@@ -21,7 +21,10 @@
     background-color: #f0f0f0;
     padding: 10px;
 }
-
+.book_category
+{
+    border-radius:5px;
+}
 .book_category .book_item{
     color:#424242;
     padding:10px;
